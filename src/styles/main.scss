@@ -1,0 +1,11 @@
+//__________MAIN SCSS FILE____________//
+// Here you can import all files in a directory.
+// example:
+// @import './buttons/*.scss';
+// It will import all files in the buttons directory
+
+// Avoid styles in this file and create your own
+
+@import './base/reset';
+
+@import './titles/*.scss';
